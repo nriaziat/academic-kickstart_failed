@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 btn:
 - label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+  url: /files/resume.pdf
 display_education: true
 education:
   courses:

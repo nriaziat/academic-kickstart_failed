@@ -18,11 +18,11 @@ hero_media = "naveed1.jpg"
 
   # Background color.
   color = "#fff"
-  
+
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -34,9 +34,9 @@ hero_media = "naveed1.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
+  url = "#"
   label = "Know more"
-  
+
 [btn_alt]
   url = "#contact"
   label = "Contact me"

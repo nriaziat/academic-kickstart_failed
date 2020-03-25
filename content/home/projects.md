@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,17 +21,22 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Robotics"
+    tag = "robotics"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Medicine"
+    tag = "medicine"
+  
+  [[content.filter_button]]
+    name = "Other"
+    tag = "other"
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -39,7 +44,6 @@ subtitle = ""
 
   # Toggle between the various page layout types.
   #   1 = List
-  #   2 = Compact
   #   3 = Card
   #   5 = Showcase
   view = 3

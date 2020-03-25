@@ -1,0 +1,11 @@
+---
+date: "2016-04-27T00:00:00Z"
+external_link: null
+image:
+  caption: 
+  focal_point: Smart
+summary: Ground vehicles can use novel imaging techniques to inspect powerlines and thus reduce operator risk.
+tags:
+- robotics
+title: Autonomous Ground Vehicles
+---

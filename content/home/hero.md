@@ -34,7 +34,7 @@ hero_media = "naveed1.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "#"
+  url = "#about"
   label = "Know more"
 
 [btn_alt]

@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Naveed Riaziat"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "naveed1.jpg"
+hero_media = "headshot1web.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

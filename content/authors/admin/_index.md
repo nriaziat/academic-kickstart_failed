@@ -2,8 +2,7 @@
 authors:
 - admin
 avatar_image: user-full.jpg
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include medical robotics, haptics, and prosthetics.
 btn:
 - label: Download Resume
   url: /files/resume.pdf

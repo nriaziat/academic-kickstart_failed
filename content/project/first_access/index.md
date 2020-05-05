@@ -1,11 +1,11 @@
 ---
 date: "2020-04-27T00:00:00Z"
-external_link: null
+external_link: https://engineering.purdue.edu/ME/News/2020/who-will-win-best-senior-design-project-of-2020
 image: 
-  caption: '"mini-Argo" robot used to model ATVs used for power-line inspection'
+  caption: 'Potential UI for Smart Access Assist'
   focal_point: Smart
-summary: Ground vehicles can use novel imaging techniques to inspect powerlines and thus reduce operator risk.
+summary: My senior design team created a smart trocar that would be used in research to detect first-access complications before they happen.
 tags:
-- robotics
-title: Autonomous Ground Vehicles
+- medicine
+title: Smart First-Access Device
 ---

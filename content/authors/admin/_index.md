@@ -17,7 +17,7 @@ interests:
 - Medical Robotics
 - Haptics
 - Healthcare
-name: Naveed Riaziat
+title: Naveed Riaziat
 organizations:
 - name: Johns Hopkins University
   url: ""
